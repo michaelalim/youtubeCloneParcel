@@ -233,7 +233,7 @@ export function startUp(page) {
         offBtn.appendChild(circle);
         //img
         const img = document.createElement("img");
-        img.src = require("../../media/imgs/doublelift.jpg");
+        img.src = objs.img;
         circle.appendChild(img);
         //channel names
         const offBtnText = document.createElement("span");

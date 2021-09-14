@@ -54,7 +54,7 @@ export const headerLinks = [
          },
          {
                 spanName: null,
-                imgSrc: "../../media/imgs/profile.jpg"
+                imgSrc: require("../../media/imgs/profile.jpg")
          },
               
 ]
@@ -119,37 +119,37 @@ export const second = [
 export const third = [
         {
                 id: "scrimbaPage",
-                img: "imgs/scrimba.jpg",
+                img: require("../../media/imgs/scrimba.jpg"),
                 title: "Scrimba"
         },
         {
                 id: "synapsePage",
-                img: "imgs/synapse.jpg",
+                img: require("../../media/imgs/synapse.jpg"),
                 title: "Synapse"
         },
         {
                 id: "webDevSimplifiedPage",
-                img: "imgs/webdevsimplified.jpg",
+                img: require("../../media/imgs/webdevsimplified.jpg"),
                 title: "Web Dev Simplified"
         },
         {
                 id: "sneakyPage",
-                img: "imgs/sneaky.jpg",
+                img: require("../../media/imgs/sneaky.jpg"),
                 title: "Sneaky"
         },
         {
                 id: "kevinPowellPage",
-                img: "imgs/kevinPowell.jpg",
+                img: require("../../media/imgs/kevinPowell.jpg"),
                 title: "Kevin Powell"
         },
         {
                 id: "doubleliftPage",
-                img: "imgs/doublelift.jpg",
+                img: require("../../media/imgs/doublelift.jpg"),
                 title: "Doublelift"
         },
         {
                 id: "offlinetvPage",
-                img: "imgs/offlinetv.png",
+                img: require("../../media/imgs/offlinetv.png"),
                 title: "OfflineTV"
         }
 ]

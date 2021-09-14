@@ -117,7 +117,9 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   }
 
   return newRequire;
-})({"../../dependencies/arrays/videos.js":[function(require,module,exports) {
+})({"../../media/imgs/channel.PNG":[function(require,module,exports) {
+module.exports = "/channel.b7013494.PNG";
+},{}],"../../dependencies/arrays/videos.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -126,181 +128,232 @@ Object.defineProperty(exports, "__esModule", {
 exports.videoList = void 0;
 var videoList = [{
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }, {
   thumbnail: 'imgs/tempo_thumbnail.jpg',
-  channel: '../media/imgs/channel.PNG',
+  channel: require('../../media/imgs/channel.PNG'),
+  title: "Made In The AM - Full",
+  channelName: "Top Music Vevo",
+  views: "13k",
+  age: "1 week"
+}, {
+  thumbnail: 'imgs/tempo_thumbnail.jpg',
+  channel: require('../../media/imgs/channel.PNG'),
+  title: "Made In The AM - Full",
+  channelName: "Top Music Vevo",
+  views: "13k",
+  age: "1 week"
+}, {
+  thumbnail: 'imgs/tempo_thumbnail.jpg',
+  channel: require('../../media/imgs/channel.PNG'),
+  title: "Made In The AM - Full",
+  channelName: "Top Music Vevo",
+  views: "13k",
+  age: "1 week"
+}, {
+  thumbnail: 'imgs/tempo_thumbnail.jpg',
+  channel: require('../../media/imgs/channel.PNG'),
+  title: "Made In The AM - Full",
+  channelName: "Top Music Vevo",
+  views: "13k",
+  age: "1 week"
+}, {
+  thumbnail: 'imgs/tempo_thumbnail.jpg',
+  channel: require('../../media/imgs/channel.PNG'),
+  title: "Made In The AM - Full",
+  channelName: "Top Music Vevo",
+  views: "13k",
+  age: "1 week"
+}, {
+  thumbnail: 'imgs/tempo_thumbnail.jpg',
+  channel: require('../../media/imgs/channel.PNG'),
   title: "Made In The AM - Full",
   channelName: "Top Music Vevo",
   views: "13k",
   age: "1 week"
 }];
 exports.videoList = videoList;
+},{"../../media/imgs/channel.PNG":"../../media/imgs/channel.PNG"}],"../../media/imgs/profile.jpg":[function(require,module,exports) {
+module.exports = "/profile.237f1a1b.jpg";
+},{}],"../../media/imgs/scrimba.jpg":[function(require,module,exports) {
+module.exports = "/scrimba.91cbd269.jpg";
+},{}],"../../media/imgs/synapse.jpg":[function(require,module,exports) {
+module.exports = "/synapse.d3f725cc.jpg";
+},{}],"../../media/imgs/webdevsimplified.jpg":[function(require,module,exports) {
+module.exports = "/webdevsimplified.fbae8f30.jpg";
+},{}],"../../media/imgs/sneaky.jpg":[function(require,module,exports) {
+module.exports = "/sneaky.920189be.jpg";
+},{}],"../../media/imgs/kevinPowell.jpg":[function(require,module,exports) {
+module.exports = "/kevinPowell.cbbb63f4.jpg";
+},{}],"../../media/imgs/doublelift.jpg":[function(require,module,exports) {
+module.exports = "/doublelift.fd2e0ad0.jpg";
+},{}],"../../media/imgs/offlinetv.png":[function(require,module,exports) {
+module.exports = "/offlinetv.4dc5bb3c.png";
 },{}],"../../dependencies/arrays/sidebarArr.js":[function(require,module,exports) {
 "use strict";
 
@@ -352,7 +405,7 @@ var headerLinks = [{
   spanName: "notifications"
 }, {
   spanName: null,
-  imgSrc: "../../media/imgs/profile.jpg"
+  imgSrc: require("../../media/imgs/profile.jpg")
 }]; //buttons on the sidebar when you click the menu (1st part)
 
 exports.headerLinks = headerLinks;
@@ -404,31 +457,31 @@ var second = [{
 exports.second = second;
 var third = [{
   id: "scrimbaPage",
-  img: "imgs/scrimba.jpg",
+  img: require("../../media/imgs/scrimba.jpg"),
   title: "Scrimba"
 }, {
   id: "synapsePage",
-  img: "imgs/synapse.jpg",
+  img: require("../../media/imgs/synapse.jpg"),
   title: "Synapse"
 }, {
   id: "webDevSimplifiedPage",
-  img: "imgs/webdevsimplified.jpg",
+  img: require("../../media/imgs/webdevsimplified.jpg"),
   title: "Web Dev Simplified"
 }, {
   id: "sneakyPage",
-  img: "imgs/sneaky.jpg",
+  img: require("../../media/imgs/sneaky.jpg"),
   title: "Sneaky"
 }, {
   id: "kevinPowellPage",
-  img: "imgs/kevinPowell.jpg",
+  img: require("../../media/imgs/kevinPowell.jpg"),
   title: "Kevin Powell"
 }, {
   id: "doubleliftPage",
-  img: "imgs/doublelift.jpg",
+  img: require("../../media/imgs/doublelift.jpg"),
   title: "Doublelift"
 }, {
   id: "offlinetvPage",
-  img: "imgs/offlinetv.png",
+  img: require("../../media/imgs/offlinetv.png"),
   title: "OfflineTV"
 }]; //buttons on the sidebar when you click the menu (4th part)
 
@@ -516,9 +569,7 @@ var bottom2 = [{
   title: "Test new features"
 }];
 exports.bottom2 = bottom2;
-},{}],"../../media/imgs/doublelift.jpg":[function(require,module,exports) {
-module.exports = "/doublelift.fd2e0ad0.jpg";
-},{}],"../../dependencies/elements/sidebar.js":[function(require,module,exports) {
+},{"../../media/imgs/profile.jpg":"../../media/imgs/profile.jpg","../../media/imgs/scrimba.jpg":"../../media/imgs/scrimba.jpg","../../media/imgs/synapse.jpg":"../../media/imgs/synapse.jpg","../../media/imgs/webdevsimplified.jpg":"../../media/imgs/webdevsimplified.jpg","../../media/imgs/sneaky.jpg":"../../media/imgs/sneaky.jpg","../../media/imgs/kevinPowell.jpg":"../../media/imgs/kevinPowell.jpg","../../media/imgs/doublelift.jpg":"../../media/imgs/doublelift.jpg","../../media/imgs/offlinetv.png":"../../media/imgs/offlinetv.png"}],"../../dependencies/elements/sidebar.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -756,7 +807,7 @@ function startUp(page) {
     offBtn.appendChild(circle); //img
 
     var img = document.createElement("img");
-    img.src = require("../../media/imgs/doublelift.jpg");
+    img.src = objs.img;
     circle.appendChild(img); //channel names
 
     var offBtnText = document.createElement("span");
@@ -843,7 +894,7 @@ function startUp(page) {
     offBtn.appendChild(offBtnText);
   }
 }
-},{"../arrays/sidebarArr.js":"../../dependencies/arrays/sidebarArr.js","../../media/imgs/doublelift.jpg":"../../media/imgs/doublelift.jpg"}],"../../dependencies/arrays/categories.js":[function(require,module,exports) {
+},{"../arrays/sidebarArr.js":"../../dependencies/arrays/sidebarArr.js"}],"../../dependencies/arrays/categories.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -999,7 +1050,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63043" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52496" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

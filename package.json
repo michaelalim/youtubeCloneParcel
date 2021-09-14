@@ -4,20 +4,20 @@
   "description": "currently making a youtube clone",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel youtubeClone/webpages/home/index.html",
-    "prod": "parcel build youtubeClone/webpages/home/index.html"
+    "dev": "parcel youtubeClone/webpages/home/index.html youtubeClone/webpages/explore/index.html youtubeClone/webpages/subscriptions/index.html youtubeClone/webpages/library/index.html",
+    "prod": "parcel youtubeClone/webpages/home/index.html youtubeClone/webpages/explore/index.html youtubeClone/webpages/subscriptions/index.html youtubeClone/webpages/library/index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelalim/youtubeClone.git"
+    "url": "git+https://github.com/michaelalim/youtubeCloneParcel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelalim/youtubeClone/issues"
+    "url": "https://github.com/michaelalim/youtubeCloneParcel/issues"
   },
-  "homepage": "https://github.com/michaelalim/youtubeClone#readme",
+  "homepage": "https://github.com/michaelalim/youtubeCloneParcel#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
